@@ -4,7 +4,7 @@
   "ingredients": [
 
     {
-      "fluid": "tfmg:liquid_plastic",
+      "fluid": "forge:liquid_plastic",
       "amount": 200
       }
 
