@@ -3,7 +3,7 @@
   "ingredients": [
 
     {
-      "fluid": "forge:heavy_oil",
+      "fluidTag": "forge:heavy_oil",
       "nbt": {},
       "amount": 90
     }
