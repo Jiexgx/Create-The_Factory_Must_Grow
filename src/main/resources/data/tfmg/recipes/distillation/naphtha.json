@@ -3,7 +3,7 @@
   "ingredients": [
 
     {
-      "fluid": "tfmg:naphtha",
+      "fluid": "forge:naphtha",
       "nbt": {},
       "amount": 3
     }
