@@ -3,7 +3,7 @@
   "ingredients": [
 
     {
-      "fluid": "tfmg:crude_oil_fluid",
+      "fluid": "forge:crude_oil",
       "nbt": {},
       "amount": 170
     }
