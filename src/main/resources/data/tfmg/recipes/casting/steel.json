@@ -2,7 +2,7 @@
   "type": "tfmg:casting",
   "ingredients": [
     {
-      "fluid": "tfmg:molten_steel",
+      "fluidTag": "forge:molten_steel",
       "amount": 1
     }
   ],
